@@ -1,0 +1,11 @@
+\\192.168.0.33\Source\WeatherMicroservice\bin\Debug\netcoreapp1.1\WeatherMicroservice.deps.json
+\\192.168.0.33\Source\WeatherMicroservice\bin\Debug\netcoreapp1.1\WeatherMicroservice.runtimeconfig.json
+\\192.168.0.33\Source\WeatherMicroservice\bin\Debug\netcoreapp1.1\WeatherMicroservice.runtimeconfig.dev.json
+\\192.168.0.33\Source\WeatherMicroservice\bin\Debug\netcoreapp1.1\WeatherMicroservice.dll
+\\192.168.0.33\Source\WeatherMicroservice\bin\Debug\netcoreapp1.1\WeatherMicroservice.pdb
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.csprojResolveAssemblyReference.cache
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.csproj.CoreCompileInputs.cache
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.AssemblyInfoInputs.cache
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.AssemblyInfo.cs
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.dll
+\\192.168.0.33\Source\WeatherMicroservice\obj\Debug\netcoreapp1.1\WeatherMicroservice.pdb
